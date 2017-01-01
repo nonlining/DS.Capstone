@@ -1,0 +1,9 @@
+name: ShinyApp
+account: nonlining
+server: shinyapps.io
+appId: 148475
+bundleId: 665800
+url: https://nonlining.shinyapps.io/ShinyApp/
+when: 1483254011.82678
+asMultiple: FALSE
+asStatic: FALSE
